@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_translator"
+        android:icon="@mipmap/translate"
+        android:title="@string/title_translator" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@mipmap/bookmark"
+        android:title="@string/title_favorite" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="?android:attr/actionModeFindDrawable"
+        android:title="@string/title_history" />
+
+</menu>

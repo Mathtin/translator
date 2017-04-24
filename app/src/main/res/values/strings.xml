@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ma.Translator</string>
+    <string name="title_translator">Переводчик</string>
+    <string name="title_favorite">Закладки</string>
+    <string name="title_history">История</string>
+    <string name="translate_input">Редиска</string>
+    <string name="translate_button">Перевести</string>
+    <string name="add_to_favorite_button">В Избранное</string>
+    <string name="text_service_provider">Переведено сервисом «Яндекс.Переводчик»</string>
+    <string name="default_input_lang_code">ru</string>
+    <string name="default_output_lang_code">en</string>
+    <string name="input_lang_code_pref">"input_language_code</string>
+    <string name="output_lang_code_pref">output_language_code</string>
+</resources>
