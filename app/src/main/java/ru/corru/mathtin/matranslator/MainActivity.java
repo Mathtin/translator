@@ -27,6 +27,12 @@ import ru.corru.mathtin.bookmark.Database;
 import ru.corru.mathtin.bookmark.Entry;
 import ru.corru.mathtin.webtranslator.YandexTranslatorAPI;
 
+/**
+ *  Author: Daniil [Mathtin] Shigapov
+ *  Copyright (c) 2017 Mathtin <wdaniil@mail.ru>
+ *  This file is released under the MIT license.
+ */
+
 public class MainActivity extends AppCompatActivity {
     private static YandexTranslatorAPI api = new YandexTranslatorAPI();
     // Important views

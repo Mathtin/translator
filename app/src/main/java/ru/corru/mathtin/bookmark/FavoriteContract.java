@@ -3,7 +3,9 @@ package ru.corru.mathtin.bookmark;
 import android.provider.BaseColumns;
 
 /**
- * Created by wdani on 24.04.2017.
+ *  Author: Daniil [Mathtin] Shigapov
+ *  Copyright (c) 2017 Mathtin <wdaniil@mail.ru>
+ *  This file is released under the MIT license.
  */
 
 public class FavoriteContract {

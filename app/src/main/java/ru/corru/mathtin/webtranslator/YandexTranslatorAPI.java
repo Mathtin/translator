@@ -7,7 +7,9 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * Created by mathtin on 23.04.2017.
+ *  Author: Daniil [Mathtin] Shigapov
+ *  Copyright (c) 2017 Mathtin <wdaniil@mail.ru>
+ *  This file is released under the MIT license.
  */
 
 public class YandexTranslatorAPI {

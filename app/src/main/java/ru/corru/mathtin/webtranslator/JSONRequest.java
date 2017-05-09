@@ -19,7 +19,9 @@ import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 
 /**
- * Created by wdani on 23.04.2017.
+ *  Author: Daniil [Mathtin] Shigapov
+ *  Copyright (c) 2017 Mathtin <wdaniil@mail.ru>
+ *  This file is released under the MIT license.
  */
 
 public class JSONRequest extends AsyncTask<String, Integer, JSONObject> {

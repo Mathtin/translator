@@ -14,6 +14,12 @@ import java.util.Iterator;
 import ru.corru.mathtin.webtranslator.Language;
 import ru.corru.mathtin.webtranslator.YandexTranslatorAPI;
 
+/**
+ *  Author: Daniil [Mathtin] Shigapov
+ *  Copyright (c) 2017 Mathtin <wdaniil@mail.ru>
+ *  This file is released under the MIT license.
+ */
+
 public class SelectionActivity extends AppCompatActivity {
 
     @Override
